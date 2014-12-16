@@ -1,0 +1,16 @@
+TOUCH|{'x':238,'y':804,'type':'downAndUp',}
+TOUCH|{'x':187,'y':761,'type':'downAndUp',}
+TOUCH|{'x':94,'y':115,'type':'downAndUp',}
+TOUCH|{'x':217,'y':133,'type':'downAndUp',}
+DRAG|{'start':(192,683),'end':(192,136),'duration':1.0,'steps':10,}
+DRAG|{'start':(192,136),'end':(192,683),'duration':1.0,'steps':10,}
+DRAG|{'start':(192,683),'end':(192,136),'duration':1.0,'steps':10,}
+TOUCH|{'x':292,'y':133,'type':'downAndUp',}
+PRESS|{'name':'HOME','type':'downAndUp',}
+TOUCH|{'x':223,'y':795,'type':'downAndUp',}
+TOUCH|{'x':169,'y':754,'type':'downAndUp',}
+TOUCH|{'x':177,'y':613,'type':'downAndUp',}
+TOUCH|{'x':211,'y':578,'type':'downAndUp',}
+TOUCH|{'x':189,'y':380,'type':'downAndUp',}
+TOUCH|{'x':214,'y':528,'type':'downAndUp',}
+PRESS|{'name':'SEARCH','type':'downAndUp',}
